@@ -1,1 +1,1 @@
-[*] All is well even in the well
+Vagrant project
